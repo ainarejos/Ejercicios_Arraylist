@@ -24,6 +24,9 @@ public class Ejercicio1 {
         Alumnos.add(new Alumno("Joshua", "Mars", "Mayers"));
         Alumnos.add(new Alumno("Adan", "Inarejos", "Palma"));
         Alumnos.add(new Alumno("Carlos", "Pomares", "Parpal"));
+        Alumnos.add(new Alumno("Ivan", "Boshc", "Amengual"));
+        Alumnos.add(new Alumno("Ismael", "Martin", "Fernandez"));
+        Alumnos.add(new Alumno("Diego", "Matas", "Fulanito"));
 
         System.out.println("Lista de Alumnos: ");
 
